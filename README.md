@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jdominguez2796/Configure-AD)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jdominguez2796/Azure-Network-Protocols)
 - <b>Cisco Networking</b>
   - [Configuring the Routing Protocol OSPF within Cisco Networks](https://github.com/joshmadakorcc/configure-ad)
 
