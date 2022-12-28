@@ -1,4 +1,4 @@
-<h1>Hello, I am Jorje, an <a href="https://linkedin.com/in/jd9512">IT Professional</a>☺</h1>
+<h1>Hello, I am Jorje, an <a href="https://linkedin.com/in/jd9512">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
